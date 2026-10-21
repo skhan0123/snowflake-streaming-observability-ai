@@ -1,6 +1,6 @@
-# Power AI Agents with Continuous Streaming Data Pipelines
-
-Virtual Hands-On Lab. You build a real-time log analytics pipeline for **Snowmart**, a
+# Real-Time Service Observability and AI Incident Triage on Snowflake
+Snowflake lab implementation and extensions featuring streaming ingestion, Dynamic Tables, service health analytics, and AI incident triage.
+Build a real-time log analytics pipeline for **Snowmart**, a
 consumer shopping app, on top of **Snowpipe Streaming**: stream service logs into Snowflake in
 real time, then refine them with Dynamic Tables, serve them low-latency, and put an AI SRE
 co-pilot and a live dashboard on the live data. Streaming ingestion is the engine underneath
